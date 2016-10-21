@@ -1,0 +1,9 @@
+History.txt
+v2.00 release version of 32 bit gsutil.
+
+Next
+   1) restored command to command box after sending buffered or immediate
+	from recent command list.
+
+   2) removed CRT functions.
+
